@@ -1,0 +1,9 @@
+parentevent,Child event,description
+Product Management,Prod_Add,"This feature allows users to introduce new products into the inventory system."
+Product Management,Prod_Update,"This feature enables users to modify the details of existing products in the inventory. The ""Update"" function ensures that the inventory records always reflect the most current information."
+Product Management,Prod_Delete,"This feature allows authorized users to remove products from the inventory system."
+Order Management,Order_Product,"This feature allows users to initiate the process of ordering items from the available inventory."
+Order Management,Track_Product,"This feature provides users with real-time visibility into the status of their placed orders."
+User Management,User_Create,"This feature allows administrators to add new users to the system and access privileges"
+User Management,User_Update,"This feature enables administrators to modify the information associated with existing user accounts."
+User Management,User_Delete,"his feature allows administrators to remove user accounts from the system."

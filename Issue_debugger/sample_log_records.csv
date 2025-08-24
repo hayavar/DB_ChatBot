@@ -1,0 +1,31 @@
+ID,Timestamp,User,Action,Details
+1,2025-03-08 07:04:09,Amir,User_Update,Amir updated Mike's role to include order management access
+2,2025-03-18 21:01:09,Mike,User_Create,"Mike created a new user ""Noah"" with permissions to manage products"
+3,2025-02-21 22:29:09,John,Prod_Delete,"John removed the product ""USB-C Docking Station"" from inventory"
+4,2025-03-27 10:01:09,Emma,User_Update,Emma updated Noah's role to include order management access
+5,2025-03-01 11:47:09,Mike,Prod_Update,"Mike updated the product ""USB-C Docking Station"" - changed stock or price"
+6,2025-03-26 01:41:09,Olivia,User_Create,"Olivia created a new user ""John"" with permissions to manage products"
+7,2025-04-03 13:19:09,Tom,Track_Product,"Tom checked tracking information for order #ODR41914 linked to product ""Gaming Mouse"""
+8,2025-03-24 09:58:09,Liam,User_Create,"Liam created a new user ""Sarah"" with permissions to manage products"
+9,2025-04-05 23:25:09,Olivia,User_Update,Olivia updated Amir's role to include order management access
+10,2025-03-12 02:27:09,Liam,Prod_Add,"Liam added a new product ""Wireless Mouse"" with SKU WMX-1205 and price $25.99"
+11,2025-04-12 18:49:09,Amir,Prod_Delete,"Amir removed the product ""Bluetooth Keyboard"" from inventory"
+12,2025-04-08 12:02:09,Liam,User_Create,"Liam created a new user ""Lina"" with permissions to manage products"
+13,2025-04-12 18:50:09,Lina,Prod_Update,"Lina updated the product ""USB-C Docking Station"" - changed stock or price"
+14,2025-03-22 07:49:09,Sarah,Track_Product,"Sarah checked tracking information for order #ODR46705 linked to product ""Bluetooth Keyboard"""
+15,2025-04-11 07:39:09,Sarah,Track_Product,"Sarah checked tracking information for order #ODR77015 linked to product ""Laptop Stand"""
+16,2025-04-16 13:03:09,Mike,Prod_Delete,"Mike removed the product ""USB-C Docking Station"" from inventory"
+17,2025-04-09 23:40:09,Amir,Prod_Update,"Amir updated the product ""Bluetooth Keyboard"" - changed stock or price"
+18,2025-04-16 12:34:09,Emma,Order_Product,"Emma placed an order for 2 units of ""Gaming Mouse"" (SKU: GM-556)"
+19,2025-03-09 10:03:09,Sarah,User_Delete,"Sarah deleted the user ""John"" from the system due to inactivity"
+20,2025-04-03 14:52:09,Amir,Prod_Update,"Amir updated the product ""Bluetooth Keyboard"" - changed stock or price"
+21,2025-04-14 06:04:09,Noah,User_Create,"Noah created a new user ""Lina"" with permissions to manage products"
+22,2025-03-17 15:44:09,Lina,User_Delete,"Lina deleted the user ""Tom"" from the system due to inactivity"
+23,2025-03-05 22:34:09,John,User_Update,John updated Tom's role to include order management access
+24,2025-03-14 03:02:09,Olivia,Prod_Add,"Olivia added a new product ""Wireless Mouse"" with SKU WMX-1205 and price $25.99"
+25,2025-03-15 05:27:09,Mike,Prod_Delete,"Mike removed the product ""Wireless Mouse"" from inventory"
+26,2025-03-13 19:12:09,Amir,User_Delete,"Amir deleted the user ""Mike"" from the system due to inactivity"
+27,2025-03-03 09:41:09,John,User_Update,John updated Sarah's role to include order management access
+28,2025-03-10 03:13:09,Olivia,Prod_Delete,"Olivia removed the product ""Gaming Mouse"" from inventory"
+29,2025-04-12 00:14:09,Emma,User_Update,Emma updated Liam's role to include order management access
+30,2025-04-12 10:51:09,Noah,Track_Product,"Noah checked tracking information for order #ODR26719 linked to product ""USB-C Docking Station"""

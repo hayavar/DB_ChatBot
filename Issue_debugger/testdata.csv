@@ -1,0 +1,25 @@
+id,Action,details,timestamp,username
+1,Prod_Delete,"For Product - Swing , batch - 002 is deleted","2025-04-20 01:34:30.209790",sunad2
+2,User_Create,"User registered","2025-04-20 13:12:50.279471",sunad1
+3,User_Create,"User logged in.","2025-04-20 13:13:01.612008",sunad1
+4,Prod_Add,"sunad1 added the product Lays","2025-04-20 13:46:32.530936",sunad1
+5,Prod_Add,"For Product - Lays , new batch - 143 is added with Quantity - 100 of Price - 10.0 whose expiry date - 2025-04-30","2025-04-20 13:46:32.586288",sunad1
+6,User_Create,"User logged in.","2025-04-20 15:54:06.841498",sunad1
+7,User_Create,"User logged in.","2025-04-20 15:54:43.902427",sunad1
+8,User_Create,"User logged in.","2025-04-20 15:57:49.160238",sunad1
+9,User_Create,"User logged in.","2025-04-20 15:59:14.977514",sunad1
+10,User_Create,"User logged in.","2025-04-20 16:00:05.736204",sunad1
+11,User_Create,"User logged in.","2025-04-20 16:00:50.942550",sunad1
+12,User_Create,"User registered","2025-04-20 16:41:40.460213",sunad2
+13,User_Create,"User logged in.","2025-04-20 16:41:52.773121",sunad2
+14,Prod_Add,"sunad2 added the product Campa","2025-04-20 16:44:32.321187",sunad2
+15,Prod_Add,"For Product - Campa , new batch - 001 is added with Quantity - 100 of Price - 30.0 whose expiry date - 2025-04-30","2025-04-20 16:44:32.369236",sunad2
+16,User_Create,"User logged in.","2025-04-20 16:45:05.925334",sunad2
+18,Order_add,"Order - 3 is created on 2025-04-20T16:46:14.993178500","2025-04-20 16:46:15.015172",sunad2
+19,Order_Product,"OrderItems - Campa of batch - 001 of Quantity - 30 is sold as part of Order - 3 fullfillment","2025-04-20 16:46:15.074173",sunad2
+20,Prod_Update,"Product - Campa, batch - 001 total units remaining in the inventory after order -3 fullfillment is 70 units","2025-04-20 16:46:15.083705",sunad2
+21,Prod_Update,"Product - Eno, batch - 145, is updated with Quantity - 0 as part of Order","2025-04-20 16:46:15.113705",sunad2
+22,Prod_Update,"Product - Eno, batch - 1, is updated with Quantity - 90 as part of Order","2025-04-20 16:46:15.129700",sunad2
+23,Order_Product,"OrderItems - Eno of batch - 1 of Quantity - 30 is added as part of Order - 3","2025-04-20 16:46:15.146700",sunad2
+24,Prod_Update,"For Product - Eno , batch - 145 Quantity is updated with value - 10","2025-04-20 16:47:40.008021",sunad2
+25,Prod_Delete,"For Product - Eno , batch - 1 is deleted","2025-04-20 16:47:44.930519",sunad2
